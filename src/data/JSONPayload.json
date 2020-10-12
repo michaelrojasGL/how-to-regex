@@ -3,6 +3,7 @@
     "index": 0,
     "guid": "6c5edf55-defc-427f-87fa-9cf05e21ddd3",
     "isActive": true,
+    "isBillable": false,
     "balance": 2099.48,
     "picture": "http://placehold.it/32x32",
     "age": 30,
@@ -12,6 +13,7 @@
         "last": "Mcguire"
     },
     "company": "ISBOL",
+    "hasDebt": false,
     "email": "brooke.mcguire@isbol.biz",
     "phone": "+1 (881) 496-2773",
     "address": "860 Dekoven Court, Fairforest, Texas, 4648",
@@ -19,8 +21,6 @@
     "registered": "Sunday, January 5, 2020 12:45 PM",
     "latitude": "-25.560324",
     "longitude": "28.437375",
-    "tags": ["eiusmod"],
-    "range": [0],
     "friends": [
         {
             "id": 0,
