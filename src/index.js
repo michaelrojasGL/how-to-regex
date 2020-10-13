@@ -43,11 +43,3 @@ console.log('\n ------ \n Replace all first names with one letter : \n', strName
 
 
 
-//* ----------------------------------------------------------------------
-//* VS Code - Replacing JSON characters to easily convert it into TS Model
-
-const replaseProps = /"(.+)":/g
-const replaceStringVals = /:\s*"(.+?)"/g
-const replaceNumberVals = /:\s*(\d+(?:.\d+)?)/g
-const replaseBooleanVals = /:\s*(true|false)/g
-
