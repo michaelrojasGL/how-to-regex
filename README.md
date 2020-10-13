@@ -143,6 +143,4 @@ Regex Crossword: [https://regexcrossword.com/]
 
 Learn Regular Expressions in 20 minutes: [https://www.youtube.com/watch?v=rhzKDrUiJVk]
 
-Regex Cheat Sheet: http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf 
-
 
