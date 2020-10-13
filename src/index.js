@@ -1,7 +1,7 @@
 
 //* -------- Creating and using a Regular Expression --------
 const regexpFullNameGlobal = /(?<firstLetter>[A-Z]){1}\w+ ([A-Z]{1}\w+,?)/g;
-const regexpFullName = /([A-Z]){1}\w+ ([A-Z]{1}\w+,?)/;
+const regexpFullName = new RegExp('([A-Z]){1}\\w+ ([A-Z]{1}\\w+,?)');
 const strNames = 'Michael Rojas, Mario Merino, Arturo Campos';
 const strNames2 = 'Alfredo Bonilla';
 
